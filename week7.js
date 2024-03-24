@@ -129,6 +129,8 @@ function sumOfArray(arr1){
     } 
 }
 
+const arr2 = [2, 30, 4, 6, 80, 90, 3];
+console.log(sumOfArray(arr2));
 
 
 
@@ -136,8 +138,7 @@ console.log('Coding Step 10');
 // Write a function that takes an array of numbers and returns the average of all the elements in the array.
 // Arr2 was created with random numbers.   a function avgOfArray was created. A For loop is created to go through each item in the array and added to SumofArray.   Then the sumOfArray is divided into the length of the array using the length method
 
-const arr2 = [2, 30, 4, 6, 80, 90, 3];
-console.log(sumOfArray(arr2));
+
 
 
 sumTotal = 0;
